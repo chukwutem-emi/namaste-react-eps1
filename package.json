@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react-eps1",
+  "version": "1.0.0",
+  "description": "This is Namaste React By Akshey Saini",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/chukwutem-emi/namaste-react-eps1.git)"
+  },
+  "keywords": [],
+  "author": "Chukwutem Emi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
